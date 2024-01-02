@@ -1,0 +1,7 @@
+fastapi==0.105
+uvicorn[standard]
+sqlmodel
+pydantic_settings
+bcrypt
+python-jose
+pydantic[email]
